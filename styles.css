@@ -101,6 +101,10 @@ a:hover {
 }
 
 @media screen and (max-width: 900px){
+
+* {
+    height: 100dvh;
+}
     .container{
         height: 50%;
         width: 100%;
