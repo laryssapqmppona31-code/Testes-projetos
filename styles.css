@@ -102,15 +102,11 @@ a:hover {
 
 @media screen and (max-width: 900px){
 
-* {
-    height: 100dvh;
-}
     .container{
         height: 50%;
         width: 100%;
         margin: 0;
         padding: 0;
-        text-align: center;
     }
 
     .Cabeça {
@@ -130,11 +126,14 @@ a:hover {
     }
 
      h2 {
+        margin-top: 100px;
         position:relative;
         margin-left: 200px
     }
 
     p {
+        margin-top: 70px;
+        margin-bottom: 100px;
         position: relative;
         margin-left: 200px;
         width: 500px;
